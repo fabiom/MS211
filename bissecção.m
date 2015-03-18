@@ -1,3 +1,4 @@
+
 %	Programa que encontra raízes utilizando o Método da Bissecção
 %	Copyright (C) 2015 Fábio Meneghetti
 %
