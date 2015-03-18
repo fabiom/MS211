@@ -17,7 +17,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Entre aqui com os valores desejados de a e b (extremos do intervalo), E (o erro máximo em relação à raiz) e de Maximo (o número máximo de iterações)
+% Entre aqui com os valores desejados de a e b (extremos do intervalo), de
+% E (o erro máximo em relação à raiz) e de Maximo (o número máximo de iterações)
 
 a = 0;
 b = 1;
