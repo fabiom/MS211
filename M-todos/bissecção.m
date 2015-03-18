@@ -1,4 +1,4 @@
-
+%
 %	Programa que encontra raízes utilizando o Método da Bissecção
 %	Copyright (C) 2015 Fábio Meneghetti
 %
@@ -14,8 +14,8 @@
 %
 %	You should have received a copy of the GNU General Public License
 %	along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Entre aqui com os valores desejados de a e b (extremos do intervalo), de
 % E (o erro máximo em relação à raiz) e de Maximo (o número máximo de iterações)
