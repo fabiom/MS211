@@ -5,4 +5,5 @@ Alguns programas escritos em GNU Octave que utilizam métodos ensinados em MS211
 
 <ul>
   <li><a href="Metodos/bissecção.m">Bissecção</a>
+  <li><a href="Metodos/newton_raphson.m">Newton-Raphson</a>
 </ul>
