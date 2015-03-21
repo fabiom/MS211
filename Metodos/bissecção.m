@@ -1,4 +1,3 @@
-%
 %	Programa que encontra raízes utilizando o Método da Bissecção
 %	Copyright (C) 2015 Fábio Meneghetti
 %
@@ -34,7 +33,7 @@ end
 
 if f(a)*f(b) > 0
 
-	disp('Não rola achar essa raiz.')
+	disp('Não é possível achar essa raíz utilizando este método.')
 	break;
 	
 end
@@ -65,6 +64,7 @@ for k = 1:Maximo
 	end
 	
 	% Critérios de parada (coloquei que tem que cumprir os dois)
+
 	if abs( f( (a+b)/2 ) ) < E && abs(b-a) < E
 		break;
 	end
@@ -73,6 +73,5 @@ end
 
 % Mostra na tela a raiz aproximada e o número de iterações realizadas
 
-disp("")
 (a+b)/2
-k
+fprintf("Número de iterações: %d\n", k)
