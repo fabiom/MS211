@@ -41,8 +41,9 @@ end
 for c = 1:Maximo
 
 	x(c+1) = x(c) - ( f(x(c))/df(x(c)) );
-
-	if abs( x(c+1) - x(c) ) < E
+	
+	% Critérios de parada
+	if abs( x(c+1) - x(c) ) < E && abs( f(x(c+1)) ) < E
 		break;
 	end
 
