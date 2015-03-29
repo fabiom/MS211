@@ -74,4 +74,4 @@ end
 % Mostra na tela a raiz aproximada e o número de iterações realizadas
 
 (a+b)/2
-fprintf("Número de iterações: %d\n", k)
+printf("Número de iterações: %d\n", k)
