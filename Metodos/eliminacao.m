@@ -16,8 +16,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Entre aqui com a sua matriz A, com o vetor-coluna b, e com o chute inicial x(1)
-% da equação A*x = b.
+% Entre aqui com a sua matriz A e com o vetor-coluna b da equação A*x = b.
 
 A = [3, 2, 4; 1, 1, 2; 4, 3, -2];
 b = [1; 2; 3]
