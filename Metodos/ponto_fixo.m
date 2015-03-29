@@ -43,4 +43,4 @@ end
 % Imprime informações na tela
 
 x(c+1)
-fprintf("Número de iterações: %d\n", c)
+printf('Número de iterações: %d\n', c)
